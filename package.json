@@ -62,11 +62,11 @@
   "dependencies": {
     "lodash.sortby": "^4.7.0",
     "react": "^16.2.0",
-    "styled-components": "^3.1.6"
+    "styled-components": "4.1.1"
   },
   "peerDependencies": {
     "react": "^16.2.0",
-    "styled-components": "^3.1.6"
+    "styled-components": "4.1.1"
   },
   "jest": {
     "collectCoverageFrom": [
